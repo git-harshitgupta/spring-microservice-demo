@@ -1,0 +1,5 @@
+package com.app.movieratingdataservice.Dto;
+
+public class Rating {
+
+}

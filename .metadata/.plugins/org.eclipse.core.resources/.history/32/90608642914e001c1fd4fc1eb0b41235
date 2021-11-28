@@ -1,0 +1,5 @@
+package com.app.movieratingdataservice.Controller;
+
+public class RatingController {
+
+}

@@ -1,0 +1,5 @@
+package com.app.movieinfoservice.Controller;
+
+public class MovieResource {
+
+}

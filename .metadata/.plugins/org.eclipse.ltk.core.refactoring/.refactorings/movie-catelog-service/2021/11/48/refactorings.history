@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CatelogItem.java&apos; to &apos;movie-info-service/src/main/java/com.app.movieinfoservice.Dto&apos;&#x0A;- Original project: &apos;movie-catelog-service&apos;&#x0A;- Destination element: &apos;movie-info-service/src/main/java/com.app.movieinfoservice.Dto&apos;&#x0A;- Original element: &apos;com.app.moviecatelogservice.Dto.CatelogItem.java&apos;" description="Copy compilation unit" destination="=movie-info-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.movieinfoservice.Dto" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.moviecatelogservice.Dto{CatelogItem.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1638014361584" units="1" version="1.0"/>
+</session>

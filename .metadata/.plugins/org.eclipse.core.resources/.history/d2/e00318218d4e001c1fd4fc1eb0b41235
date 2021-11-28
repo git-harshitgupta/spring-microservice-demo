@@ -1,0 +1,5 @@
+package com.app.moviecatelogservice.Controller;
+
+public class MovieCatelogResource {
+
+}
